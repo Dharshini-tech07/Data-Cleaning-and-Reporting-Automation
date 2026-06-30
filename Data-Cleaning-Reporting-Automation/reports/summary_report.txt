@@ -1,8 +1,0 @@
-DATA CLEANING & REPORTING AUTOMATION
-========================================
-
-Total Sales      : 130285.71
-Average Sales    : 16285.71
-Highest Sales    : 50000.00
-Lowest Sales     : 1500.00
-Total Records    : 8
