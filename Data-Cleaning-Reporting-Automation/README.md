@@ -102,7 +102,7 @@ After execution, the following files are automatically created inside the **repo
 
 The screenshot below shows the successful execution of the project, including the terminal output, generated sales chart, and confirmation that all reports were created successfully.
 
-![Project Execution Output](reports/output_screenshot.png)
+![Project Execution Output](output_screenshot.png)
 
 ---
 
