@@ -98,14 +98,6 @@ After execution, the following files are automatically created inside the **repo
 
 ---
 
-# 📸 Project Execution Output
-
-The screenshot below shows the successful execution of the project, including the terminal output, generated sales chart, and confirmation that all reports were created successfully.
-
-![Project Execution Output](output_screenshot.png)
-
----
-
 ## 📊 Sales Chart
 
 The project automatically generates the following sales visualization.
